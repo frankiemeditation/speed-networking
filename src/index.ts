@@ -37,6 +37,11 @@ const config = [
             }
         ]
     },
+{
+        zone: 'welcome',
+        message: 'Bienvenue dans',
+        cta: []
+    },
     {
         zone: 'followUs',
         message: 'Hey! Have you already started following us?',
