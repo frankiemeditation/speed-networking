@@ -1882,19 +1882,6 @@
          "tilecount":72,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":15,
-         "firstgid":2509,
-         "image":"..\/..\/..\/Downloads\/logoMS_white_WA.png",
-         "imageheight":600,
-         "imagewidth":499,
-         "margin":0,
-         "name":"logoMS_white_WA",
-         "spacing":0,
-         "tilecount":270,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
